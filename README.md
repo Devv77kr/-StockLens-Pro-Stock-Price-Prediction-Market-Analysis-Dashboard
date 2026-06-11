@@ -4,7 +4,7 @@ StockLens Pro is an advanced AI-powered stock market analysis and forecasting pl
 
 
 
-_ 🚀 ## Key Features ╰┈➤
+ ## 🚀  Key Features ╰┈➤
 📊 Interactive stock market dashboard with real-time data
 🤖 Multi-model stock price prediction using:
 LSTM (Deep Learning)
