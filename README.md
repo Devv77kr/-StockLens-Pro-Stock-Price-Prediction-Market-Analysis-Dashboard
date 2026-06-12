@@ -2,9 +2,14 @@
 
 StockLens Pro is an advanced AI-powered stock market analysis and forecasting platform built with Python and Streamlit. The application combines Machine Learning, Technical Analysis, Risk Management, and Financial Data Visualization to help investors and traders make data-driven decisions.
 
+# IMAGE 🔽
 
+<img width="1895" height="817" alt="Screenshot 2026-06-11 141446" src="https://github.com/user-attachments/assets/23eef4ba-0425-461e-855f-011d049bb78b" />
 
  # 🚀  Key Features ╰┈➤
+# IMAGE:
+<img width="1900" height="841" alt="Screenshot 2026-06-11 141514" src="https://github.com/user-attachments/assets/a8f14a83-34e9-4fd6-8214-f99c15509037" />
+ 
 📊 Interactive stock market dashboard with real-time data
 🤖 Multi-model stock price prediction using:
 LSTM (Deep Learning)
